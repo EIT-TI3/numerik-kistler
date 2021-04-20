@@ -131,5 +131,6 @@ dmypy.json
 # IDE
 .idea
 *.pdf
+*.zip
 P*vorgabe
 info*.md
