@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (c) 2021 Martin Kistler
+# (c) 2021 Martin Kistler
 
 import numpy as np
 import matplotlib.pyplot as plt
